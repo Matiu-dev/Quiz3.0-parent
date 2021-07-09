@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Quiz3.0-common/common.iml" filepath="$PROJECT_DIR$/Quiz3.0-common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quiz3.0/quiz.iml" filepath="$PROJECT_DIR$/Quiz3.0/quiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quiz-parent.iml" filepath="$PROJECT_DIR$/quiz-parent.iml" />
+    </modules>
+  </component>
+</project>
